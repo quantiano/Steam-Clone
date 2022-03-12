@@ -1,3 +1,4 @@
 # Stream-Clone
 
-Project of Database class in SIIT
+Project of Database Class at SIIT
+
