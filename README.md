@@ -8,6 +8,7 @@ Demo Website: https://css326325.000webhostapp.com/
 
 Report: <a href="https://docs.google.com/document/d/1FVhAe921jUa6YXQeSvpuJXhKK0WJfAkFHtXKGsFH7PE/edit?usp=sharing"> click here</a>
 
+<p align="center">
 ![image](https://user-images.githubusercontent.com/84672001/199385642-43d8e87f-abe8-4ef2-9679-82a478b0f363.png)
 
 ![image](https://user-images.githubusercontent.com/84672001/199385752-acbc6844-9e9e-46f2-bd7f-164f5ad0e71f.png)
@@ -31,3 +32,4 @@ Report: <a href="https://docs.google.com/document/d/1FVhAe921jUa6YXQeSvpuJXhKK0W
 ![image](https://user-images.githubusercontent.com/84672001/199386304-c65a5fa0-322f-4e32-8b03-8deafa788014.png)
 
 ![image](https://user-images.githubusercontent.com/84672001/199386324-1e844beb-ae78-4274-98bd-8a46def7b65e.png)
+  </p>
