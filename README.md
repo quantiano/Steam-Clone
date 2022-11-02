@@ -25,11 +25,21 @@ Report: <a href="https://docs.google.com/document/d/1FVhAe921jUa6YXQeSvpuJXhKK0W
 
 ![image](https://user-images.githubusercontent.com/84672001/199386100-b7900ea2-1402-4a0c-8493-079f747ae7f8.png)
 
+![image](https://user-images.githubusercontent.com/84672001/199386816-392cac97-ee8b-4887-89d8-7c368110f8f5.png)
+
 ![image](https://user-images.githubusercontent.com/84672001/199386214-a43840bd-3cc1-4ee6-b40a-627126c6312b.png)
 
+![image](https://user-images.githubusercontent.com/84672001/199386993-12ce84d2-1add-40fd-ba04-e356bc2b95e2.png)
+
+
 ![image](https://user-images.githubusercontent.com/84672001/199386272-e3892837-c525-4bf7-b15c-fe16e9981a13.png)
+
+![image](https://user-images.githubusercontent.com/84672001/199386912-10ee3fb8-0461-47fb-8cf8-811abb598cd4.png)
 
 ![image](https://user-images.githubusercontent.com/84672001/199386304-c65a5fa0-322f-4e32-8b03-8deafa788014.png)
 
 ![image](https://user-images.githubusercontent.com/84672001/199386324-1e844beb-ae78-4274-98bd-8a46def7b65e.png)
+
+![image](https://user-images.githubusercontent.com/84672001/199386650-075ec80d-ab12-4396-a072-78cf90337262.png)
+
   </p>
